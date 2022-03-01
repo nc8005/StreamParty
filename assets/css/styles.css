@@ -42,3 +42,22 @@ footer{
     padding: 15px 30px;
     font-weight: bold;
 }
+
+a{
+    margin-bottom: 1em;
+    display: inline-block;
+}
+
+a:link, a:visited {
+    color: White;
+    background-color: Red;
+    text-decoration: none;
+    padding: 13px;
+    border-radius: 15px;
+
+}
+a:hover {
+    color: White;
+    background-color: darkred;
+    text-decoration: underline;
+}
